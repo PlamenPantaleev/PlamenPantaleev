@@ -1,5 +1,5 @@
 ### Hi there, I'm Plamen 👋.
-🌱 - I am currently styduing for Java Web Developer.
+🌱 - I am currently studying for Java Web Developer.
 
 My Skills:
 -
