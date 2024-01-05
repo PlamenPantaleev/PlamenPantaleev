@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Plamen 👋.
+I am currently styduing for Java Web Developer.
+
+Skills:
+
 
 <!--
 **PlamenPantaleev/PlamenPantaleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
