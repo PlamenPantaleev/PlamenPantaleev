@@ -1,7 +1,9 @@
 ### Hi there, I'm Plamen 👋.
-I am currently styduing for Java Web Developer.
+🌱 - I am currently styduing for Java Web Developer.
 
-Skills:
+My Skills:
+-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,idea,html,css&theme=dark)](https://skillicons.dev)
 
 
 <!--
